@@ -8,3 +8,4 @@ LOG_PATH_IS_UNDEFINED/
 application.pid
 native-libs
 .editorconfig
+Application/
